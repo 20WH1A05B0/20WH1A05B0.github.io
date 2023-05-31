@@ -10,3 +10,7 @@ table, th, td {
   th, td {
     background-color: #96D4D4;
   }
+  .head{
+    font-size: 25px;
+    color: black;
+}
