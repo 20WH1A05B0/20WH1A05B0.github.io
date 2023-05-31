@@ -1,6 +1,4 @@
-h2 {
-    color:aqua;
-}
+
 
 table, th, td {
     border: 1px solid white;
@@ -11,6 +9,6 @@ table, th, td {
     background-color: #96D4D4;
   }
   .head{
-    font-size: 30px;
+    font-size: 25px;
     color: black;
-}
+  }
